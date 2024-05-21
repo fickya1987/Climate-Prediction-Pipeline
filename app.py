@@ -81,4 +81,4 @@ for feature_name, info in feature_info.items():
 if st.button("Predict"):
     input_data = np.array(feature_values).reshape(1, -1)
     prediction = model.predict(input_data)
-    st.write(f"Mean Temperature in London is predicted to be {prediction[0]}°C")
+    st.write(f"Mean Temperature in London is predicted to be {prediction[0]:.2f}°C")
