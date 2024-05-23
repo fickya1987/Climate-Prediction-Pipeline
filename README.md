@@ -2,7 +2,7 @@
 
 Predicting London's climate using machine learning techniques. This project aims to forecast mean temperature in Celsius (°C) using various regression models and logging experiments with MLflow
 
-<strong><em>You can interact with the model here:</em></strong> [Climate Model](https://huggingface.co/spaces/Netcodez/Climate_Prediction_Model)!
+<strong><em>You can interact with the model here:</em></strong> [Climate Model](https://huggingface.co/spaces/Netcodez/Climate_Prediction_Model)
 
 # Aim
 
