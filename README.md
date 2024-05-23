@@ -2,6 +2,8 @@
 
 Predicting London's climate using machine learning techniques. This project aims to forecast mean temperature in Celsius (°C) using various regression models and logging experiments with MLflow
 
+<strong><em>You can interact with the model here:</em></strong> [Climate Model](https://huggingface.co/spaces/Netcodez/Climate_Prediction_Model)!
+
 # Aim
 
 This project focuses on predicting the climate in London, England, specifically targeting the mean temperature in degrees Celsius (°C). With the increasing importance of weather predictions for businesses in the face of climate change, this project aims to develop a machine learning pipeline using various regression models.
