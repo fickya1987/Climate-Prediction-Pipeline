@@ -7,7 +7,7 @@ with open("random_forest_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Set the title of the app
-st.title("Predicting Temperature in London")
+st.title("Predicting Temperature")
 
 # header and description
 st.header("Predict Weather Conditions Based on Various Features")
