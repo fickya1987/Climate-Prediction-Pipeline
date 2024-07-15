@@ -17,7 +17,7 @@ st.markdown("[GitHub Repo](https://github.com/Netcodez/Climate-Prediction-Pipeli
 
 st.write(
     """
-This application uses a Random Forest Regression model to predict the mean temperature in London. 
+This application uses a Random Forest Regression model to predict the mean temperature. 
 Please enter the required features below to get a prediction.
 """
 )
